@@ -10,6 +10,7 @@
 | [0136-single-number](https://github.com/pinaka151/LeetCode-progress/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/pinaka151/LeetCode-progress/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/pinaka151/LeetCode-progress/tree/master/0238-product-of-array-except-self) |
+| [0704-binary-search](https://github.com/pinaka151/LeetCode-progress/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -60,4 +61,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/pinaka151/LeetCode-progress/tree/master/0238-product-of-array-except-self) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/pinaka151/LeetCode-progress/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
