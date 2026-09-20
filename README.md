@@ -15,6 +15,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/pinaka151/LeetCode-progress/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/pinaka151/LeetCode-progress/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pinaka151/LeetCode-progress/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/pinaka151/LeetCode-progress/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/pinaka151/LeetCode-progress/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/pinaka151/LeetCode-progress/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pinaka151/LeetCode-progress/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/pinaka151/LeetCode-progress/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Ternary Search
 |  |
 | ------- |
