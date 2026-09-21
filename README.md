@@ -16,6 +16,7 @@
 | [0704-binary-search](https://github.com/pinaka151/LeetCode-progress/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pinaka151/LeetCode-progress/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pinaka151/LeetCode-progress/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1552-magnetic-force-between-two-balls](https://github.com/pinaka151/LeetCode-progress/tree/master/1552-magnetic-force-between-two-balls) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pinaka151/LeetCode-progress/tree/master/0169-majority-element) |
+| [1552-magnetic-force-between-two-balls](https://github.com/pinaka151/LeetCode-progress/tree/master/1552-magnetic-force-between-two-balls) |
 ## Counting
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 | [0704-binary-search](https://github.com/pinaka151/LeetCode-progress/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pinaka151/LeetCode-progress/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pinaka151/LeetCode-progress/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1552-magnetic-force-between-two-balls](https://github.com/pinaka151/LeetCode-progress/tree/master/1552-magnetic-force-between-two-balls) |
 ## Ternary Search
 |  |
 | ------- |
