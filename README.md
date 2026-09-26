@@ -39,12 +39,14 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pinaka151/LeetCode-progress/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/pinaka151/LeetCode-progress/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/pinaka151/LeetCode-progress/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pinaka151/LeetCode-progress/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pinaka151/LeetCode-progress/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/pinaka151/LeetCode-progress/tree/master/0242-valid-anagram) |
 | [1552-magnetic-force-between-two-balls](https://github.com/pinaka151/LeetCode-progress/tree/master/1552-magnetic-force-between-two-balls) |
 ## Counting
 |  |
@@ -101,4 +103,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/pinaka151/LeetCode-progress/tree/master/0075-sort-colors) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/pinaka151/LeetCode-progress/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
