@@ -108,10 +108,19 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/pinaka151/LeetCode-progress/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/pinaka151/LeetCode-progress/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/pinaka151/LeetCode-progress/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/pinaka151/LeetCode-progress/tree/master/0387-first-unique-character-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/pinaka151/LeetCode-progress/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/pinaka151/LeetCode-progress/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
