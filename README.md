@@ -41,6 +41,7 @@
 | [0169-majority-element](https://github.com/pinaka151/LeetCode-progress/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/pinaka151/LeetCode-progress/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/pinaka151/LeetCode-progress/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/pinaka151/LeetCode-progress/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [0088-merge-sorted-array](https://github.com/pinaka151/LeetCode-progress/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/pinaka151/LeetCode-progress/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/pinaka151/LeetCode-progress/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/pinaka151/LeetCode-progress/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
@@ -115,6 +117,7 @@
 | [0242-valid-anagram](https://github.com/pinaka151/LeetCode-progress/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/pinaka151/LeetCode-progress/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/pinaka151/LeetCode-progress/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/pinaka151/LeetCode-progress/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/pinaka151/LeetCode-progress/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Queue
 |  |
@@ -133,4 +136,8 @@
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/pinaka151/LeetCode-progress/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/pinaka151/LeetCode-progress/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
