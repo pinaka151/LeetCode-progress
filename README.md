@@ -17,6 +17,7 @@
 | [0410-split-array-largest-sum](https://github.com/pinaka151/LeetCode-progress/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pinaka151/LeetCode-progress/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/pinaka151/LeetCode-progress/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/pinaka151/LeetCode-progress/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pinaka151/LeetCode-progress/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pinaka151/LeetCode-progress/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/pinaka151/LeetCode-progress/tree/master/1552-magnetic-force-between-two-balls) |
@@ -87,6 +88,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/pinaka151/LeetCode-progress/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/pinaka151/LeetCode-progress/tree/master/0410-split-array-largest-sum) |
+| [0724-find-pivot-index](https://github.com/pinaka151/LeetCode-progress/tree/master/0724-find-pivot-index) |
 ## Binary Search
 |  |
 | ------- |
