@@ -2,9 +2,7 @@ class Solution {
 public:
     string reverseWords(string s) {
         int  n = s.length();
-
         string ans = "";
-
         for(int i = 0; i<n;i++){
             string word = "";
             while(i<n && s[i] != ' '){
