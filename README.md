@@ -76,6 +76,7 @@
 | [0075-sort-colors](https://github.com/pinaka151/LeetCode-progress/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pinaka151/LeetCode-progress/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/pinaka151/LeetCode-progress/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/pinaka151/LeetCode-progress/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/pinaka151/LeetCode-progress/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/pinaka151/LeetCode-progress/tree/master/0567-permutation-in-string) |
 ## Greedy
@@ -116,6 +117,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/pinaka151/LeetCode-progress/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/pinaka151/LeetCode-progress/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/pinaka151/LeetCode-progress/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/pinaka151/LeetCode-progress/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/pinaka151/LeetCode-progress/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/pinaka151/LeetCode-progress/tree/master/0387-first-unique-character-in-a-string) |
