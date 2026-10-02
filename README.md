@@ -64,6 +64,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/pinaka151/LeetCode-progress/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/pinaka151/LeetCode-progress/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/pinaka151/LeetCode-progress/tree/master/0204-count-primes) |
 ## Recursion
