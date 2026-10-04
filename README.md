@@ -22,6 +22,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/pinaka151/LeetCode-progress/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pinaka151/LeetCode-progress/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/pinaka151/LeetCode-progress/tree/master/1552-magnetic-force-between-two-balls) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pinaka151/LeetCode-progress/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [0009-palindrome-number](https://github.com/pinaka151/LeetCode-progress/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/pinaka151/LeetCode-progress/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/pinaka151/LeetCode-progress/tree/master/0204-count-primes) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pinaka151/LeetCode-progress/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |
 | ------- |
