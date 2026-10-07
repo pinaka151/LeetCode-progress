@@ -25,6 +25,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/pinaka151/LeetCode-progress/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pinaka151/LeetCode-progress/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/pinaka151/LeetCode-progress/tree/master/1552-magnetic-force-between-two-balls) |
+| [1672-richest-customer-wealth](https://github.com/pinaka151/LeetCode-progress/tree/master/1672-richest-customer-wealth) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pinaka151/LeetCode-progress/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
 |  |
@@ -187,4 +188,5 @@
 | [0054-spiral-matrix](https://github.com/pinaka151/LeetCode-progress/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/pinaka151/LeetCode-progress/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pinaka151/LeetCode-progress/tree/master/0240-search-a-2d-matrix-ii) |
+| [1672-richest-customer-wealth](https://github.com/pinaka151/LeetCode-progress/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
