@@ -26,6 +26,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pinaka151/LeetCode-progress/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/pinaka151/LeetCode-progress/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1552-magnetic-force-between-two-balls](https://github.com/pinaka151/LeetCode-progress/tree/master/1552-magnetic-force-between-two-balls) |
+| [1572-matrix-diagonal-sum](https://github.com/pinaka151/LeetCode-progress/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/pinaka151/LeetCode-progress/tree/master/1672-richest-customer-wealth) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pinaka151/LeetCode-progress/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
@@ -190,5 +191,6 @@
 | [0074-search-a-2d-matrix](https://github.com/pinaka151/LeetCode-progress/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pinaka151/LeetCode-progress/tree/master/0240-search-a-2d-matrix-ii) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/pinaka151/LeetCode-progress/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/pinaka151/LeetCode-progress/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/pinaka151/LeetCode-progress/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
