@@ -20,6 +20,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/pinaka151/LeetCode-progress/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/pinaka151/LeetCode-progress/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pinaka151/LeetCode-progress/tree/master/0540-single-element-in-a-sorted-array) |
+| [0566-reshape-the-matrix](https://github.com/pinaka151/LeetCode-progress/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/pinaka151/LeetCode-progress/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/pinaka151/LeetCode-progress/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pinaka151/LeetCode-progress/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -159,6 +160,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/pinaka151/LeetCode-progress/tree/master/0054-spiral-matrix) |
+| [0566-reshape-the-matrix](https://github.com/pinaka151/LeetCode-progress/tree/master/0566-reshape-the-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/pinaka151/LeetCode-progress/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
@@ -190,6 +192,7 @@
 | [0054-spiral-matrix](https://github.com/pinaka151/LeetCode-progress/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/pinaka151/LeetCode-progress/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pinaka151/LeetCode-progress/tree/master/0240-search-a-2d-matrix-ii) |
+| [0566-reshape-the-matrix](https://github.com/pinaka151/LeetCode-progress/tree/master/0566-reshape-the-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/pinaka151/LeetCode-progress/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/pinaka151/LeetCode-progress/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/pinaka151/LeetCode-progress/tree/master/1672-richest-customer-wealth) |
