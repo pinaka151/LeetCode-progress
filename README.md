@@ -30,6 +30,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/pinaka151/LeetCode-progress/tree/master/1552-magnetic-force-between-two-balls) |
 | [1572-matrix-diagonal-sum](https://github.com/pinaka151/LeetCode-progress/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/pinaka151/LeetCode-progress/tree/master/1672-richest-customer-wealth) |
+| [1929-concatenation-of-array](https://github.com/pinaka151/LeetCode-progress/tree/master/1929-concatenation-of-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pinaka151/LeetCode-progress/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
 |  |
@@ -166,6 +167,7 @@
 | [0566-reshape-the-matrix](https://github.com/pinaka151/LeetCode-progress/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/pinaka151/LeetCode-progress/tree/master/0832-flipping-an-image) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/pinaka151/LeetCode-progress/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1929-concatenation-of-array](https://github.com/pinaka151/LeetCode-progress/tree/master/1929-concatenation-of-array) |
 ## Sliding Window
 |  |
 | ------- |
