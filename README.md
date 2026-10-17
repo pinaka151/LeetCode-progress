@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pinaka151/LeetCode-progress/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/pinaka151/LeetCode-progress/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/pinaka151/LeetCode-progress/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/pinaka151/LeetCode-progress/tree/master/0033-search-in-rotated-sorted-array) |
@@ -52,6 +53,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pinaka151/LeetCode-progress/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/pinaka151/LeetCode-progress/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/pinaka151/LeetCode-progress/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/pinaka151/LeetCode-progress/tree/master/0387-first-unique-character-in-a-string) |
