@@ -32,6 +32,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/pinaka151/LeetCode-progress/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/pinaka151/LeetCode-progress/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/pinaka151/LeetCode-progress/tree/master/1929-concatenation-of-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/pinaka151/LeetCode-progress/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pinaka151/LeetCode-progress/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
 |  |
@@ -58,6 +59,7 @@
 | [0242-valid-anagram](https://github.com/pinaka151/LeetCode-progress/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/pinaka151/LeetCode-progress/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/pinaka151/LeetCode-progress/tree/master/0567-permutation-in-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/pinaka151/LeetCode-progress/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -82,6 +84,7 @@
 | [0009-palindrome-number](https://github.com/pinaka151/LeetCode-progress/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/pinaka151/LeetCode-progress/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/pinaka151/LeetCode-progress/tree/master/0204-count-primes) |
+| [2965-find-missing-and-repeated-values](https://github.com/pinaka151/LeetCode-progress/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pinaka151/LeetCode-progress/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |
@@ -205,4 +208,5 @@
 | [1380-lucky-numbers-in-a-matrix](https://github.com/pinaka151/LeetCode-progress/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/pinaka151/LeetCode-progress/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/pinaka151/LeetCode-progress/tree/master/1672-richest-customer-wealth) |
+| [2965-find-missing-and-repeated-values](https://github.com/pinaka151/LeetCode-progress/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
