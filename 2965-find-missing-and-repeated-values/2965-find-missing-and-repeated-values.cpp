@@ -12,6 +12,7 @@ public:
 
         for(int i = 0; i<n; i++){
             for(int j = 0; j<n;j++){
+                // Duplicate value
                 if(s.find(grid[i][j])!=s.end()){
                     a = grid[i][j];
                     ans.push_back(a);
@@ -24,17 +25,10 @@ public:
 
         }
 
+        // Missing Value
         b =  sum - (actualSum - a);
-
         ans.push_back(b);
-
-
+        
         return ans;
-
-
-        
-        
-
-        
     }
 };
