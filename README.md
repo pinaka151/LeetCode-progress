@@ -19,6 +19,7 @@
 | [0204-count-primes](https://github.com/pinaka151/LeetCode-progress/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/pinaka151/LeetCode-progress/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pinaka151/LeetCode-progress/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/pinaka151/LeetCode-progress/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/pinaka151/LeetCode-progress/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pinaka151/LeetCode-progress/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/pinaka151/LeetCode-progress/tree/master/0566-reshape-the-matrix) |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/pinaka151/LeetCode-progress/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/pinaka151/LeetCode-progress/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/pinaka151/LeetCode-progress/tree/master/0832-flipping-an-image) |
 ## Divide and Conquer
 |  |
@@ -99,6 +101,7 @@
 | [0088-merge-sorted-array](https://github.com/pinaka151/LeetCode-progress/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/pinaka151/LeetCode-progress/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/pinaka151/LeetCode-progress/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/pinaka151/LeetCode-progress/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/pinaka151/LeetCode-progress/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/pinaka151/LeetCode-progress/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/pinaka151/LeetCode-progress/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -121,6 +124,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/pinaka151/LeetCode-progress/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/pinaka151/LeetCode-progress/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pinaka151/LeetCode-progress/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/pinaka151/LeetCode-progress/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/pinaka151/LeetCode-progress/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pinaka151/LeetCode-progress/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/pinaka151/LeetCode-progress/tree/master/0704-binary-search) |
@@ -209,4 +213,12 @@
 | [1572-matrix-diagonal-sum](https://github.com/pinaka151/LeetCode-progress/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/pinaka151/LeetCode-progress/tree/master/1672-richest-customer-wealth) |
 | [2965-find-missing-and-repeated-values](https://github.com/pinaka151/LeetCode-progress/tree/master/2965-find-missing-and-repeated-values) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/pinaka151/LeetCode-progress/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/pinaka151/LeetCode-progress/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
