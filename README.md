@@ -24,6 +24,7 @@
 | [0287-find-the-duplicate-number](https://github.com/pinaka151/LeetCode-progress/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/pinaka151/LeetCode-progress/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pinaka151/LeetCode-progress/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/pinaka151/LeetCode-progress/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/pinaka151/LeetCode-progress/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/pinaka151/LeetCode-progress/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/pinaka151/LeetCode-progress/tree/master/0724-find-pivot-index) |
@@ -62,6 +63,7 @@
 | [0169-majority-element](https://github.com/pinaka151/LeetCode-progress/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/pinaka151/LeetCode-progress/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/pinaka151/LeetCode-progress/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/pinaka151/LeetCode-progress/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/pinaka151/LeetCode-progress/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/pinaka151/LeetCode-progress/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
@@ -123,6 +125,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/pinaka151/LeetCode-progress/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/pinaka151/LeetCode-progress/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/pinaka151/LeetCode-progress/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/pinaka151/LeetCode-progress/tree/master/0724-find-pivot-index) |
 ## Binary Search
 |  |
